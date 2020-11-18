@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\OOP EXERCISE\EX2\OfficialsManagement\bin\Debug\OfficialsManagement.exe.config
+C:\Users\ACER\Desktop\OOP EXERCISE\EX2\OfficialsManagement\bin\Debug\OfficialsManagement.exe
+C:\Users\ACER\Desktop\OOP EXERCISE\EX2\OfficialsManagement\bin\Debug\OfficialsManagement.pdb
+C:\Users\ACER\Desktop\OOP EXERCISE\EX2\OfficialsManagement\obj\Debug\OfficialsManagement.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\OOP EXERCISE\EX2\OfficialsManagement\obj\Debug\OfficialsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\OOP EXERCISE\EX2\OfficialsManagement\obj\Debug\OfficialsManagement.exe
+C:\Users\ACER\Desktop\OOP EXERCISE\EX2\OfficialsManagement\obj\Debug\OfficialsManagement.pdb
+C:\Users\ACER\Desktop\CNTT-TT\OOP EXERCISE\EX2\OfficialsManagement\bin\Debug\OfficialsManagement.exe.config
+C:\Users\ACER\Desktop\CNTT-TT\OOP EXERCISE\EX2\OfficialsManagement\bin\Debug\OfficialsManagement.exe
+C:\Users\ACER\Desktop\CNTT-TT\OOP EXERCISE\EX2\OfficialsManagement\bin\Debug\OfficialsManagement.pdb
+C:\Users\ACER\Desktop\CNTT-TT\OOP EXERCISE\EX2\OfficialsManagement\obj\Debug\OfficialsManagement.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\CNTT-TT\OOP EXERCISE\EX2\OfficialsManagement\obj\Debug\OfficialsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CNTT-TT\OOP EXERCISE\EX2\OfficialsManagement\obj\Debug\OfficialsManagement.exe
+C:\Users\ACER\Desktop\CNTT-TT\OOP EXERCISE\EX2\OfficialsManagement\obj\Debug\OfficialsManagement.pdb

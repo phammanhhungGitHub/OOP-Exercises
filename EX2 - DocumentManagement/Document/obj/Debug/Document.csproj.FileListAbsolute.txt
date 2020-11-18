@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\OOP EXERCISE\EX3\Document\bin\Debug\Document.exe.config
+C:\Users\ACER\Desktop\OOP EXERCISE\EX3\Document\bin\Debug\Document.exe
+C:\Users\ACER\Desktop\OOP EXERCISE\EX3\Document\bin\Debug\Document.pdb
+C:\Users\ACER\Desktop\OOP EXERCISE\EX3\Document\obj\Debug\Document.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\OOP EXERCISE\EX3\Document\obj\Debug\Document.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\OOP EXERCISE\EX3\Document\obj\Debug\Document.exe
+C:\Users\ACER\Desktop\OOP EXERCISE\EX3\Document\obj\Debug\Document.pdb

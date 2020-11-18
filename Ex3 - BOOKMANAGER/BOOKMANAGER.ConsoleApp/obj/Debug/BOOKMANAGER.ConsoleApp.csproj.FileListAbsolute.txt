@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Debug\BOOKMANAGER.ConsoleApp.exe.config
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Debug\BOOKMANAGER.ConsoleApp.exe
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Debug\BOOKMANAGER.ConsoleApp.pdb
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Debug\BOOKMANAGER.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Debug\BOOKMANAGER.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Debug\BOOKMANAGER.ConsoleApp.exe
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Debug\BOOKMANAGER.ConsoleApp.pdb
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Debug\BOOKMANAGER.ConsoleApp.csproj.CopyComplete

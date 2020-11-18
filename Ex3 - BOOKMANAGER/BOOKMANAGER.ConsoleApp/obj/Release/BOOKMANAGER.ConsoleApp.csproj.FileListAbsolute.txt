@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Release\BOOKMANAGER.ConsoleApp.exe.config
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Release\BOOKMANAGER.ConsoleApp.exe
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Release\BOOKMANAGER.ConsoleApp.pdb
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Release\BOOKMANAGER.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Release\BOOKMANAGER.ConsoleApp.csproj.CopyComplete
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Release\BOOKMANAGER.ConsoleApp.exe
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Release\BOOKMANAGER.ConsoleApp.pdb
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Release\BOOKMANAGER.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Release\BOOKMANAGER.ConsoleApp.exe.manifest
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\bin\Release\BOOKMANAGER.ConsoleApp.application
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Release\BOOKMANAGER.ConsoleApp.exe.manifest
+C:\Users\ACER\source\repos\BOOKMANAGER\BOOKMANAGER.ConsoleApp\obj\Release\BOOKMANAGER.ConsoleApp.application
